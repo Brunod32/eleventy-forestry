@@ -1,5 +1,5 @@
 ---
-title: Mon premier super article
+title: Mon premier article
 
 ---
 Voici **du contenu**!
